@@ -1,9 +1,7 @@
 # 💫 About Me:
-I'm currently working as a Backend Developer at Lãberit.
+I work as a Backend Developer at Lãberit.
 
-I'm currently learning NestJS.
-
-I'm looking to collaborate on websites, linux management and any other cool stuff.
+I'm currently developing my project, Meiga.
 
 ---
 # 💻 Tech Stack:
